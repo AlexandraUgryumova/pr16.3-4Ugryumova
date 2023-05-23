@@ -1,0 +1,21 @@
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова практика 16\bin\Debug\Угрюмова практика 16.exe.config
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова практика 16\bin\Debug\Угрюмова практика 16.exe
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова практика 16\bin\Debug\Угрюмова практика 16.pdb
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова практика 16\obj\Debug\Угрюмова практика 16.csproj.AssemblyReference.cache
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова практика 16\obj\Debug\Угрюмова_практика_16.Form1.resources
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова практика 16\obj\Debug\Угрюмова_практика_16.Properties.Resources.resources
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова практика 16\obj\Debug\Угрюмова практика 16.csproj.GenerateResource.cache
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова практика 16\obj\Debug\Угрюмова практика 16.csproj.CoreCompileInputs.cache
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова практика 16\obj\Debug\Угрюмова практика 16.exe
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова практика 16\obj\Debug\Угрюмова практика 16.pdb
+C:\Users\alexa\Desktop\саша\программы\c#\ArrayList\Угрюмова практика 16\bin\Debug\Угрюмова практика 16.exe.config
+C:\Users\alexa\Desktop\саша\программы\c#\ArrayList\Угрюмова практика 16\bin\Debug\Угрюмова практика 16.exe
+C:\Users\alexa\Desktop\саша\программы\c#\ArrayList\Угрюмова практика 16\bin\Debug\Угрюмова практика 16.pdb
+C:\Users\alexa\Desktop\саша\программы\c#\ArrayList\Угрюмова практика 16\obj\Debug\Угрюмова практика 16.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\саша\программы\c#\ArrayList\Угрюмова практика 16\obj\Debug\Угрюмова практика 16.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\Desktop\саша\программы\c#\ArrayList\Угрюмова практика 16\obj\Debug\Угрюмова_практика_16.Form1.resources
+C:\Users\alexa\Desktop\саша\программы\c#\ArrayList\Угрюмова практика 16\obj\Debug\Угрюмова_практика_16.Properties.Resources.resources
+C:\Users\alexa\Desktop\саша\программы\c#\ArrayList\Угрюмова практика 16\obj\Debug\Угрюмова практика 16.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\саша\программы\c#\ArrayList\Угрюмова практика 16\obj\Debug\Угрюмова практика 16.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\саша\программы\c#\ArrayList\Угрюмова практика 16\obj\Debug\Угрюмова практика 16.exe
+C:\Users\alexa\Desktop\саша\программы\c#\ArrayList\Угрюмова практика 16\obj\Debug\Угрюмова практика 16.pdb

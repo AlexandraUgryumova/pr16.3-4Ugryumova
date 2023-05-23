@@ -1,0 +1,8 @@
+C:\Users\alexa\Desktop\саша\программы\c#\Угрюмова задание 4\Угрюмова задание 4\bin\Debug\Угрюмова задание 4.exe.config
+C:\Users\alexa\Desktop\саша\программы\c#\Угрюмова задание 4\Угрюмова задание 4\bin\Debug\Угрюмова задание 4.exe
+C:\Users\alexa\Desktop\саша\программы\c#\Угрюмова задание 4\Угрюмова задание 4\bin\Debug\Угрюмова задание 4.pdb
+C:\Users\alexa\Desktop\саша\программы\c#\Угрюмова задание 4\Угрюмова задание 4\obj\Debug\Угрюмова задание 4.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\саша\программы\c#\Угрюмова задание 4\Угрюмова задание 4\obj\Debug\Угрюмова задание 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\Desktop\саша\программы\c#\Угрюмова задание 4\Угрюмова задание 4\obj\Debug\Угрюмова задание 4.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\саша\программы\c#\Угрюмова задание 4\Угрюмова задание 4\obj\Debug\Угрюмова задание 4.exe
+C:\Users\alexa\Desktop\саша\программы\c#\Угрюмова задание 4\Угрюмова задание 4\obj\Debug\Угрюмова задание 4.pdb
